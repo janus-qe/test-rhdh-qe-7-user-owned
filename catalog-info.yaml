@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mock-component-qe-6
+spec:
+  type: website
+  lifecycle: experimental
+  owner: user:default/rhdh-qe-6
